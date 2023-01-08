@@ -1,0 +1,29 @@
+p {
+    color: brown;
+    font-family: calibri;
+    font-size: 20px;
+}
+h2 {color:blueviolet;
+    text-decoration: underline;
+}
+.aqua{
+    color: aqua;
+}
+.border{
+    border: 1px salmon;
+    border-radius: 5px;
+}
+.nav{
+    display: flex;
+}
+.button{
+    margin: 20px;
+    list-style-type: none;
+    border: 2px solid gray;
+    padding: 5px;
+    background-color: aquamarine;
+    border-radius: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
